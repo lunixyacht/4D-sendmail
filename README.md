@@ -26,7 +26,7 @@ Exemple d'utilisation :
  OB FIXER($Message;SM_Subject;"Le sujet de mon super message ! ")
  OB FIXER($Message;SM_Body;"Mon super message .....")
  
- // ---- Attention toutes les constantes de swiftmailer n'on pas été ecrites dans les constantes de 4D --- A faire ou remplacer simplement les valeures de swiftmailer  // 
+ // ---- Attention toutes les constantes de swiftmailer n'on pas été ecrites dans les constantes de 4D 
  // OB FIXER($Message;SM_Charset;"iso-8859-2")  // Defaut utf-8
  OB FIXER($Message;SM_MaxLineLength;1000)  //   maximum length longer than 1000 characters according to RFC 2822
  OB FIXER($Message;SM_Sender;"jf.tanguy@t-yacht.com")  // Expéditeur idem from 
