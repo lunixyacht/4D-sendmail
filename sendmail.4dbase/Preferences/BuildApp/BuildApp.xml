@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Preferences4D>
+
+  <BuildApp>
+    <BuildCompiled>False</BuildCompiled>
+    <IncludeAssociatedFolders>True</IncludeAssociatedFolders>
+    <BuildComponent>True</BuildComponent>
+    <BuildApplicationSerialized>False</BuildApplicationSerialized>
+    <BuildApplicationLight>False</BuildApplicationLight>
+    <SourcesFiles>
+      <RuntimeVL>
+        <RuntimeVLIncludeIt>True</RuntimeVLIncludeIt>
+      </RuntimeVL>
+      <CS>
+        <ServerIncludeIt>False</ServerIncludeIt>
+        <ClientWinIncludeIt>False</ClientWinIncludeIt>
+        <ClientMacIncludeIt>False</ClientMacIncludeIt>
+      </CS>
+    </SourcesFiles>
+    <CS>
+      <BuildServerApplication>False</BuildServerApplication>
+      <BuildCSUpgradeable>False</BuildCSUpgradeable>
+      <BuildV13ClientUpgrades>False</BuildV13ClientUpgrades>
+      <CurrentVers>1</CurrentVers>
+      <HardLink></HardLink>
+    </CS>
+    <BuildApplicationName>sendmail</BuildApplicationName>
+    <BuildWinDestFolder>C:\Users\jf\Yachtmee V14\</BuildWinDestFolder>
+    <ArrayExcludedPluginName>
+      <ItemsCount>3</ItemsCount>
+      <Item1>4D Internet Commands</Item1>
+      <Item2>4D View</Item2>
+      <Item3>4D Write</Item3>
+    </ArrayExcludedPluginName>
+    <ArrayExcludedPluginID>
+      <ItemsCount>3</ItemsCount>
+      <Item1>15010</Item1>
+      <Item2>13000</Item2>
+      <Item3>12000</Item3>
+    </ArrayExcludedPluginID>
+    <ArrayExcludedComponentName>
+      <ItemsCount>17</ItemsCount>
+      <Item1>4DPop AppMaker</Item1>
+      <Item2>4DPop Bookmarks</Item2>
+      <Item3>4DPop Color Chart</Item3>
+      <Item4>4DPop Commands</Item4>
+      <Item5>4DPop Constants Editor</Item5>
+      <Item6>4DPop Image Buddy</Item6>
+      <Item7>4DPop KeepIt</Item7>
+      <Item8>4DPop Macros</Item8>
+      <Item9>4DPop Pasteboard</Item9>
+      <Item10>4DPop Rulers</Item10>
+      <Item11>4DPop sqlSchemas</Item11>
+      <Item12>4DPop Window</Item12>
+      <Item13>4DPop XLIFF</Item13>
+      <Item14>4DPop</Item14>
+      <Item15>4D Progress</Item15>
+      <Item16>4D SVG</Item16>
+      <Item17>4D Widgets</Item17>
+    </ArrayExcludedComponentName>
+    <Licenses>
+      <ArrayLicenseWin>
+        <ItemsCount>9</ItemsCount>
+        <Item1>C:\ProgramData\4D\Licenses\4DDE110CUD001BBLMM0BB37.license4D</Item1>
+        <Item2>C:\ProgramData\4D\Licenses\4DDE120CUD00180B8I091D1.license4D</Item2>
+        <Item3>C:\ProgramData\4D\Licenses\4DDP110UUS0016NCRR1E7A7.license4D</Item3>
+        <Item4>C:\ProgramData\4D\Licenses\4DDP120UUS001ANKSN1458F.license4D</Item4>
+        <Item5>C:\ProgramData\4D\Licenses\4DDP140UUS0017C0WV1E341.license4D</Item5>
+        <Item6>C:\ProgramData\4D\Licenses\4DF0Evaluation.license4D</Item6>
+        <Item7>C:\ProgramData\4D\Licenses\4UUD110UUS001BZYHM04E96.license4D</Item7>
+        <Item8>C:\ProgramData\4D\Licenses\4UUD120UUS0019BZR20785B.license4D</Item8>
+        <Item9>C:\ProgramData\4D\Licenses\4UUD140UUS001CNKPG0ABB7.license4d</Item9>
+      </ArrayLicenseWin>
+    </Licenses>
+    <SignApplication>
+      <MacSignature>False</MacSignature>
+      <MacCertificate></MacCertificate>
+    </SignApplication>
+  </BuildApp>
+
+</Preferences4D>

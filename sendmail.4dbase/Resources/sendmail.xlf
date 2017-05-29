@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+
+<!--
+    Created with 4DPop Constants Editor
+-->
+
+  <file datatype="x-4DK#" original="x-undefined" source-language="x-none" target-language="x-none">
+
+    <header>
+
+      <prop-group name="4DPop Constant editor">
+
+        <prop prop-type="version">14.2 (3)</prop>
+
+      </prop-group>
+
+    </header>
+
+    
+
+    <body>
+
+      
+<!--groups' labels-->
+
+      <group resname="themes">
+        <trans-unit id="thm_1" resname="AC6ED82F359CBE499D0D68C8C5347BE9" translate="no">
+          <source>SM_Transport</source>
+        </trans-unit>
+        <trans-unit id="thm_2" resname="D141920C9A692F4F8420D06BFDDEDBCB" translate="no">
+          <source>SM_Message</source>
+        </trans-unit>
+      </group>
+
+      
+<!--constants-->
+
+      <group d4:groupName="AC6ED82F359CBE499D0D68C8C5347BE9" restype="x-4DK#">
+        <trans-unit d4:value="Username:S" id="k_1">
+          <source>SM_Username</source>
+        </trans-unit>
+        <trans-unit d4:value="Host:S" id="k_2">
+          <source>SM_Host</source>
+        </trans-unit>
+        <trans-unit d4:value="Port:S" id="k_3">
+          <source>SM_Port</source>
+        </trans-unit>
+        <trans-unit d4:value="Password:S" id="k_4">
+          <source>SM_Password</source>
+        </trans-unit>
+      </group>
+      <group d4:groupName="D141920C9A692F4F8420D06BFDDEDBCB" restype="x-4DK#">
+        <trans-unit d4:value="Body:S" id="k_5">
+          <source>SM_Body</source>
+        </trans-unit>
+        <trans-unit d4:value="From:S" id="k_6">
+          <source>SM_From</source>
+        </trans-unit>
+        <trans-unit d4:value="To" id="k_7">
+          <source>SM_To</source>
+        </trans-unit>
+        <trans-unit d4:value="Subject:S" id="k_8">
+          <source>SM_Subject</source>
+        </trans-unit>
+        <trans-unit d4:value="Charset:S" id="k_9">
+          <source>SM_Charset</source>
+        </trans-unit>
+        <trans-unit d4:value="MaxLineLength:S" id="k_10">
+          <source>SM_MaxLineLength</source>
+        </trans-unit>
+        <trans-unit d4:value="Sender" id="k_11">
+          <source>SM_Sender</source>
+        </trans-unit>
+        <trans-unit d4:value="Priority" id="k_12">
+          <source>SM_Priority</source>
+        </trans-unit>
+        <trans-unit d4:value="Bcc:S" id="k_13">
+          <source>SM_Bcc</source>
+        </trans-unit>
+      </group>
+    </body>
+
+    
+
+  </file>
+
+</xliff>
